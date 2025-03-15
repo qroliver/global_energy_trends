@@ -7,4 +7,4 @@ Next, I take a look at CO<sub>2</sub> emissions. Again, I start with a global ov
 ## 🔍 Dive deeper.
 This repository contains the data (after some processing) and the code with some analysis, but the full story, presented in a blog format with detailed explanations, can be found 
 [here](https://oliverqr.com/posts/global_energy_trends) 👈. 
-If you are curious about how energy we consume and where it comes from, as well as how CO<sub>2</sub> emissions are evolving over time, please do not hesitate to explore the blog post. You'll get a picture of the present, how we got here and where we are heading.
+If you are curious about how much energy we consume and where it comes from, as well as how CO<sub>2</sub> emissions are evolving over time, please do not hesitate to explore the blog post. You'll get a picture of the present, how we got here and where we are heading.
